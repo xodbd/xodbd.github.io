@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0deb6996.css",
+    "main.js": "/static/js/main.59f76b2d.js",
+    "static/js/453.636ca53c.chunk.js": "/static/js/453.636ca53c.chunk.js",
+    "static/media/work1-1.png": "/static/media/work1-1.0462dc07f7f4b3c2616b.png",
+    "static/media/work1-3.png": "/static/media/work1-3.2da59dc3bfe530c524bd.png",
+    "static/media/work3-1.png": "/static/media/work3-1.5cc0f7c74e841d72c9f4.png",
+    "static/media/work4-1.png": "/static/media/work4-1.2101ed4b432142510774.png",
+    "static/media/work3-2.png": "/static/media/work3-2.baa0f0002b7f1e556a49.png",
+    "static/media/work4-2.png": "/static/media/work4-2.b78020e85156176b3548.png",
+    "static/media/work4-3.png": "/static/media/work4-3.83e74b5314e12d2b9c5f.png",
+    "static/media/work1-2.png": "/static/media/work1-2.4828b9c3358448ac1e15.png",
+    "static/media/giftBoom.jpg": "/static/media/giftBoom.8aed1339ca6070899e3b.jpg",
+    "static/media/kty.jpeg": "/static/media/kty.09af8f649ae0a5f234c2.jpeg",
+    "static/media/profile.jpeg": "/static/media/profile.039d11c1686f5790bec7.jpeg",
+    "index.html": "/index.html",
+    "main.0deb6996.css.map": "/static/css/main.0deb6996.css.map",
+    "main.59f76b2d.js.map": "/static/js/main.59f76b2d.js.map",
+    "453.636ca53c.chunk.js.map": "/static/js/453.636ca53c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0deb6996.css",
+    "static/js/main.59f76b2d.js"
+  ]
+}
