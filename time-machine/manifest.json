@@ -1,0 +1,8 @@
+{
+  "short_name": "Yung",
+  "name": "Yung's portfolio",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#535150",
+  "background_color": "#ffffff"
+}
